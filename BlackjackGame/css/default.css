@@ -1,5 +1,8 @@
 ﻿body {
-  /* Uncomment this to enable scrolling and zooming
-  touch-action: manipulation;
-  */
+ 
+}
+#mainBody{
+    text-align:center;
+    font-family:'Comic Sans MS';
+    background-color:yellow;
 }
